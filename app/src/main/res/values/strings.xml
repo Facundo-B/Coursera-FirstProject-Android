@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Holamundo</string>
+    <string name="welcome">Welcome</string>
+    <string name="button_text">Enter</string>
+</resources>
